@@ -3,6 +3,7 @@ Is an open-source project that catalogues all the [Disney's Lorcana™ TCG](http
 
 The catalogue is currently supporting data about:
 
+ - sets
  - cards
 
 The project will support data in JSON format.
