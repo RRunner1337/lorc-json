@@ -23,7 +23,7 @@ The following attributes are available for card objects that are described in a 
 | atribute | type | optional | description |
 |--|--|--|--|
 | number | number || Consecurive number identifier of a card in the set. |
-| id | string || UUID (v4) - Unique identifier(s) of the card that is represented in the set - relates to a card object in cards.json |
+| cardId | string || UUID (v4) - Unique identifier(s) of the card that is represented in the set - relates to a card object in [cards.json](../cards/cards.json)|
 | cardName | string || Name of the card |
 | printingId | string || Printing identifier of the card |
 | rarity | enum || Rarity of the card, one of: "promo", "common", "uncommon", "rare", "super-rare", "legendary" |
